@@ -1,0 +1,15 @@
+{
+    "name": "parzibyte/extraer_texto_pdf",
+    "description": "Extraer texto de un PDF",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luis Cabrera Benito",
+            "email": "contacto@parzibyte.me"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser": "^0.14.0"
+    }
+}
